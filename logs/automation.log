@@ -23,3 +23,40 @@
 00:11:40.195 [main] INFO  test_Cases.TS_3 - Confirm button is Selected.
 00:11:40.797 [main] INFO  test_Cases.TS_3 - Error message is printed on console.
 00:11:40.798 [main] INFO  test_Cases.TS_3 - ***TS_3 test case passed successfully. ***
+14:52:26.961 [main] INFO  test_Cases.TS_Login - ***Starting Login Test ***
+14:52:31.055 [main] INFO  test_Cases.TS_Login - Clicking on login.... 
+14:52:36.673 [main] INFO  test_Cases.TS_Login - providing email id...
+14:52:39.299 [main] INFO  test_Cases.TS_Login - providing password...
+14:52:45.120 [main] INFO  test_Cases.TS_Login - Error Message Printed
+14:52:55.317 [main] INFO  test_Cases.TS_Login - ***Starting Login Test ***
+14:52:58.954 [main] INFO  test_Cases.TS_Login - Clicking on login.... 
+14:53:43.708 [main] INFO  test_Cases.TS_1 - ***Starting TS_1 Test ***
+14:53:47.029 [main] INFO  test_Cases.TS_1 - Clicked on Bookshelves.
+14:53:52.478 [main] INFO  test_Cases.TS_1 - Clicked on popup.
+14:53:58.920 [main] INFO  test_Cases.TS_1 - Price range is Selected By using the slider.
+14:53:59.723 [main] INFO  test_Cases.TS_1 - Storage type open is selected by hovering on Storage type.
+14:54:00.135 [main] INFO  test_Cases.TS_1 - Out of stack products are excluded.
+14:54:05.174 [main] INFO  test_Cases.TS_1 - Getting top three Bookshelves info.
+14:54:05.174 [main] INFO  test_Cases.TS_1 - ***TS_1 test case passed successfully.....***
+14:54:36.828 [main] INFO  test_Cases.TS_2 - ***Starting TS_2 Test ***
+14:54:40.283 [main] INFO  test_Cases.TS_2 - Clicked on Bookshelves.
+14:54:45.694 [main] INFO  test_Cases.TS_2 - Clicked on popup.
+14:54:51.867 [main] INFO  test_Cases.TS_2 - Price range is Selected By using the slider.
+14:54:54.514 [main] INFO  test_Cases.TS_2 - Storage type open is selected by hovering on Storage type.
+14:54:54.861 [main] INFO  test_Cases.TS_2 - Out of stack products are excluded.
+14:54:57.374 [main] INFO  test_Cases.TS_2 - Brand by "The Home Dekor" is selected.
+14:55:04.027 [main] INFO  test_Cases.TS_2 - All the available options in bookshelf is printed after applying the filters.***
+14:55:13.108 [main] INFO  test_Cases.TS_2 - All the sub-menus under collections is printed.
+14:55:13.108 [main] INFO  test_Cases.TS_2 - ***TS_2 test case passed successfully.....***
+14:55:26.433 [main] INFO  test_Cases.TS_3 - ***Starting TS_3 Test ***
+14:55:26.435 [main] INFO  test_Cases.TS_3 - Navigating to homepage.
+14:55:33.173 [main] INFO  test_Cases.TS_3 - Navigating to giftCards page.
+14:55:33.912 [main] INFO  test_Cases.TS_3 - Clicking on Birthday And Anniversary Option.
+14:55:34.831 [main] INFO  test_Cases.TS_3 - Amount is Entered.
+14:55:35.925 [main] INFO  test_Cases.TS_3 - Date is Selected.
+14:55:36.161 [main] INFO  test_Cases.TS_3 - Next button is Selected.
+14:55:37.595 [main] INFO  test_Cases.TS_3 - All the input boxes of 'To' field is filled.
+14:55:39.332 [main] INFO  test_Cases.TS_3 - All the input boxes of 'From' field is Selected.
+14:55:39.815 [main] INFO  test_Cases.TS_3 - Confirm button is Selected.
+14:55:40.533 [main] INFO  test_Cases.TS_3 - Error message is printed on console.
+14:55:40.533 [main] INFO  test_Cases.TS_3 - ***TS_3 test case passed successfully. ***
