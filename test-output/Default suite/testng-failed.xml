@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="test_Cases.TS_3">
+        <methods>
+          <include name="recipient_info"/>
+          <include name="click_bNa"/>
+          <include name="tearDown"/>
+          <include name="error_info"/>
+          <include name="set3"/>
+          <include name="click_gift_card"/>
+          <include name="setup"/>
+          <include name="senders_info"/>
+          <include name="gift_info"/>
+        </methods>
+      </class> <!-- test_Cases.TS_3 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

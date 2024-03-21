@@ -1,0 +1,25 @@
+00:10:01.473 [main] INFO  test_Cases.TS_1 - Out of stack products are excluded.
+00:10:08.362 [main] INFO  test_Cases.TS_1 - Getting top three Bookshelves info.
+00:10:08.362 [main] INFO  test_Cases.TS_1 - ***TS_1 test case passed successfully.....***
+00:10:26.199 [main] INFO  test_Cases.TS_2 - ***Starting TS_2 Test ***
+00:10:29.722 [main] INFO  test_Cases.TS_2 - Clicked on Bookshelves.
+00:10:36.201 [main] INFO  test_Cases.TS_2 - Clicked on popup.
+00:10:43.503 [main] INFO  test_Cases.TS_2 - Price range is Selected By using the slider.
+00:10:46.515 [main] INFO  test_Cases.TS_2 - Storage type open is selected by hovering on Storage type.
+00:10:48.777 [main] INFO  test_Cases.TS_2 - Out of stack products are excluded.
+00:10:52.597 [main] INFO  test_Cases.TS_2 - Brand by "The Home Dekor" is selected.
+00:10:59.459 [main] INFO  test_Cases.TS_2 - All the available options in bookshelf is printed after applying the filters.***
+00:11:08.916 [main] INFO  test_Cases.TS_2 - All the sub-menus under collections is printed.
+00:11:08.917 [main] INFO  test_Cases.TS_2 - ***TS_2 test case passed successfully.....***
+00:11:25.228 [main] INFO  test_Cases.TS_3 - ***Starting TS_3 Test ***
+00:11:25.228 [main] INFO  test_Cases.TS_3 - Navigating to homepage.
+00:11:31.007 [main] INFO  test_Cases.TS_3 - Navigating to giftCards page.
+00:11:31.652 [main] INFO  test_Cases.TS_3 - Clicking on Birthday And Anniversary Option.
+00:11:32.510 [main] INFO  test_Cases.TS_3 - Amount is Entered.
+00:11:33.952 [main] INFO  test_Cases.TS_3 - Date is Selected.
+00:11:34.854 [main] INFO  test_Cases.TS_3 - Next button is Selected.
+00:11:36.855 [main] INFO  test_Cases.TS_3 - All the input boxes of 'To' field is filled.
+00:11:39.910 [main] INFO  test_Cases.TS_3 - All the input boxes of 'From' field is Selected.
+00:11:40.195 [main] INFO  test_Cases.TS_3 - Confirm button is Selected.
+00:11:40.797 [main] INFO  test_Cases.TS_3 - Error message is printed on console.
+00:11:40.798 [main] INFO  test_Cases.TS_3 - ***TS_3 test case passed successfully. ***
